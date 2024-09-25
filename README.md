@@ -1,6 +1,6 @@
 # Jenkins Pipeline for Java based application using Maven, SonarQube, Argo CD, Helm and Kubernetes
 
-![Screenshot 2023-03-28 at 9 38 09 PM](https://user-images.githubusercontent.com/43399466/228301952-abc02ca2-9942-4a67-8293-f76647b6f9d8.png)
+![ultimate cicd](https://github.com/VarunTej06/Jenkins-End-to-End/blob/main/images/Ultimate%20CICD.png)
 
 ## Launch AWS EC2 Instance
 AMI: Ubuntu Instance Type: t2 large
